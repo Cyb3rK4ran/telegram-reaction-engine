@@ -1,0 +1,16 @@
+{
+  "name": "tg-reaction-engine",
+  "version": "5.0.0",
+  "description": "Telegram Reaction Engine Professional by Cyb3rKaran",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cyb3rKaran",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
